@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Finance Partner">
+    <test verbose="2" preserve-order="true" thread-count="5" name="C:/test.java.Users/USER/IdeaProjects/mfp_">
+        <classes>
+
+            <class name="test.java.Authentication"/>
+            <class name="test.java.CreateRecord"/>
+            <class name="test.java.Report"/>
+
+        </classes>
+    </test>
+</suite>
